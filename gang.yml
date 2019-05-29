@@ -1,2 +1,3 @@
 brockfanning:
     - foo.txt
+    - .circleci
