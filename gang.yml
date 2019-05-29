@@ -1,3 +1,4 @@
 brockfanning:
     - foo.txt
     - .circleci
+    - gang.yml
